@@ -1,2 +1,4 @@
 # SCRAPPINGWEB
-Scrapping web python , by chatgpt
+require : pip install requests
+pip install beautifulsoup4
+pip install python-whois
